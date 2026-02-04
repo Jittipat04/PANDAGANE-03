@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+      
+}
+
+#board {
+    background-color: rgb(255, 255, 255);
+    border-bottom: 20px solid rgb(218, 116, 0);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    background-color: rgb(189, 0, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+button:hover {
+    background-color: rgb(83, 1, 1);
+    color: rgb(255, 255, 255);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
